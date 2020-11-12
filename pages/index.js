@@ -15,6 +15,11 @@ export default function index() {
                     <Link href="/shop/products/category">
                         <a title="Shop">Shop</a>
                     </Link>
+                    | 
+                    <Link href="/home">
+                        <a title="Home">Home</a>
+                    </Link>
+                     
                 </nav>
             </div>
         </div>

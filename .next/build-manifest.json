@@ -33,6 +33,16 @@
       "static/chunks/main.js",
       "static/chunks/webpack.js",
       "static/chunks/pages/contact.js"
+    ],
+    "/home": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/home.js"
+    ],
+    "/shop/products/category": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/shop/products/category.js"
     ]
   },
   "ampFirstPages": []
